@@ -19,15 +19,18 @@
 
 優先候補:
 
-1. SNS下書きMCP
-2. ブログ/note補助MCP
-3. Reflection振り返りMCP
+1. Reflection Lite MCP
+2. SNS下書き Lite MCP
+3. ブログ/note構成 Lite MCP
 
 理由:
 
 - 個人/クリエイターが使いやすい
 - 無料配布の価値が分かりやすい
 - Agent Memoriesの記憶価値へつなげやすい
+- 無料版はその場で試し、有料版は記憶として積み上げる境界を作りやすい
+
+詳細な境界は [FREE_PAID_BOUNDARY.md](./FREE_PAID_BOUNDARY.md) を参照。
 
 ## Phase 3: alpha実装repoまたは同repo内prototype
 

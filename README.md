@@ -26,6 +26,7 @@ Agent Memoriesで使う予定のMCP候補を整理する公開カタログです
 ## 最初に見るもの
 
 - 候補一覧: [CATALOG.md](./CATALOG.md)
+- 無料/有料の境界: [FREE_PAID_BOUNDARY.md](./FREE_PAID_BOUNDARY.md)
 - 公開ロードマップ: [ROADMAP.md](./ROADMAP.md)
 - Issue投稿ルール: [CONTRIBUTING.md](./CONTRIBUTING.md)
 
