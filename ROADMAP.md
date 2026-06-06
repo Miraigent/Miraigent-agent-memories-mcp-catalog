@@ -19,12 +19,14 @@
 
 優先候補:
 
+0. Creator Post Starter MCP
 1. Reflection Lite MCP
 2. SNS下書き Lite MCP
 3. ブログ/note構成 Lite MCP
 
 理由:
 
+- 初回だけ有料級の無料配布として、X投稿やnote投稿補助まで含めた目玉を出す
 - 個人/クリエイターが使いやすい
 - 無料配布の価値が分かりやすい
 - Agent Memoriesの記憶価値へつなげやすい
