@@ -19,8 +19,9 @@ jobs:
           test -f CATALOG.md
           test -f FREE_PAID_BOUNDARY.md
           test -f ROADMAP.md
+          test -f THREE_TIER_PRODUCT_DESIGN.md
           test -f CONTRIBUTING.md
 
       - name: Public boundary wording
         run: |
-          grep -R "MIRAI Memory本体" README.md CATALOG.md FREE_PAID_BOUNDARY.md ROADMAP.md CONTRIBUTING.md
+          grep -R "MIRAI Memory本体" README.md CATALOG.md FREE_PAID_BOUNDARY.md ROADMAP.md THREE_TIER_PRODUCT_DESIGN.md CONTRIBUTING.md

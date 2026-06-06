@@ -13,6 +13,7 @@
 - README
 - CATALOG
 - ROADMAP
+- THREE_TIER_PRODUCT_DESIGN
 - Issue template
 
 ## Phase 2: 初回無料候補の選定
