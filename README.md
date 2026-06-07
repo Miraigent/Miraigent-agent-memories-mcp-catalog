@@ -6,6 +6,29 @@ Agent Memoriesで使う予定のMCP候補を整理する公開カタログです
 
 このrepoは、MCP本体の実装repoではありません。まず「どんなMCPが欲しいか」「どの候補を無料で試したいか」「どの機能をAgent Memories本体と連携したいか」を公開で整理し、Issueで要望を集めるための場所です。
 
+## 先に選ぶもの
+
+次のどれかに当てはまる場合は、Issueで欲しい候補や利用例を送ってください。
+
+- AIに毎回同じ口調、NG表現、投稿の好みを説明している
+- note、X、ブログの下書き改善点が残らず、毎回やり直している
+- AIキャラクターや創作設定を会話ごとに説明し直している
+- 学習メモ、調査メモ、振り返りが次の行動に活きていない
+- 便利なMCPを試したいが、無料版と有料版の境界を先に知りたい
+
+Issueを送る:
+
+- MCP候補リクエスト: https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?template=mcp_candidate_request.md
+- 利用例の共有: https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?template=use_case.md
+
+## いま見てほしい候補
+
+- Auto Post & Improve: 投稿して終わりにせず、反応メモと次回改善へつなぐ
+- Reflection Lite: 今日の会話や作業から、次に残す記憶候補を作る
+- Creator Style Memory: 投稿の口調、構成、NG表現、勝ちパターンを整理する
+
+まずは「どれが一番ほしいか」だけでもIssueに残せるようにしています。
+
 ## まず解決したい痛み
 
 - AIと話しても、次の会話では忘れている
@@ -81,10 +104,10 @@ Agent Memories本体や契約者向けでは、複数用途の継続記憶、反
 
 ## 関連リンク
 
-- Agent Memories: https://agentmemories.jp/
-- Miraigent公開リソース: https://miraigent.com/resources
-- Miraigent無料診断: https://miraigent.com/diagnosis
-- Miraigent無料MCP: https://github.com/Miraigent/miraigent-free-ai-ops-mcp
+- Agent Memories: https://agentmemories.jp/?utm_source=github&utm_medium=readme&utm_campaign=agent-memories-mcp-catalog
+- Miraigent公開リソース: https://miraigent.com/resources?utm_source=github&utm_medium=readme&utm_campaign=agent-memories-mcp-catalog
+- Miraigent無料診断: https://miraigent.com/diagnosis?utm_source=github&utm_medium=readme&utm_campaign=agent-memories-mcp-catalog
+- Miraigent無料MCP: https://github.com/Miraigent/miraigent-free-ai-ops-mcp?utm_source=github&utm_medium=readme&utm_campaign=agent-memories-mcp-catalog
 
 ## GitHub description案
 
