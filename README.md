@@ -6,6 +6,15 @@ Agent Memoriesで使う予定のMCP候補を整理する公開カタログです
 
 このrepoは、MCP本体の実装repoではありません。まず「どんなMCPが欲しいか」「どの候補を無料で試したいか」「どの機能をAgent Memories本体と連携したいか」を公開で整理し、Issueで要望を集めるための場所です。
 
+## 無料で1回試す
+
+AIに投稿下書きを作らせるたびに、同じ口調、NG表現、構成を説明している人向けに、まず1回だけ使える無料テンプレを置いています。
+
+- 無料テンプレ: [Creator Style Memory Starter](./FREE_CREATOR_STYLE_MEMORY_STARTER.md)
+- 使いどころ: X投稿、note導入文、ブログ構成、商品紹介文、AIキャラクター口調メモ
+- 次の小さな行動: テンプレを1枚埋めて、次のAI下書きの前に貼る
+- 欲しい拡張を送る: https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?template=use_case.md
+
 ## 先に選ぶもの
 
 次のどれかに当てはまる場合は、Issueで欲しい候補や利用例を送ってください。
