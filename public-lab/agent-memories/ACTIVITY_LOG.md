@@ -4,8 +4,8 @@ This log tracks public-facing progress. It is not an internal operations log.
 
 ## 2026-06-14
 
-- Created a public-ready Agent Memories section inside the Miraigent site repository under `public-lab/agent-memories/`.
-- Separated Agent Memories public materials from production Miraigent site files.
+- Created a public-ready Agent Memories section in this catalog repository under `public-lab/agent-memories/`.
+- Kept Agent Memories public materials separate from the production Miraigent site repository.
 - Added public README, roadmap, MCP architecture notes, activity log, and publishing policy.
 - Confirmed the goal: keep Miraigent as the business trust and resource route, while Agent Memories becomes a visible project area for memory design and MCP work.
 
