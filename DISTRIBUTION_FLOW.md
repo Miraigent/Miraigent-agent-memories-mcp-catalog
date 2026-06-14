@@ -103,6 +103,12 @@ Owns:
 - blog articles
 - trust and conversion path
 
+Important:
+
+- The website should link to this catalog.
+- The website should not duplicate this catalog's roadmap, activity log, or architecture notes.
+- Full Agent Memories public content stays in this repository.
+
 ## Required Links For Each MCP Candidate
 
 Each candidate should eventually have:

@@ -82,3 +82,5 @@ Catalog and visibility live here.
 Working code and npm releases live in implementation repositories.
 
 Miraigent site links to the public assets but does not own the catalog.
+
+For source-of-truth and duplicate-content rules, see [SOURCE_OF_TRUTH.md](./SOURCE_OF_TRUTH.md).

@@ -79,6 +79,7 @@ Agent Memories本体や契約者向けでは、複数用途の継続記憶、反
 
 ## 最初に見るもの
 
+- 正本と二重管理防止: [SOURCE_OF_TRUTH.md](./SOURCE_OF_TRUTH.md)
 - repo更新先の整理: [REPO_ROUTING.md](./REPO_ROUTING.md)
 - 公開導線の整理: [DISTRIBUTION_FLOW.md](./DISTRIBUTION_FLOW.md)
 - 候補一覧: [CATALOG.md](./CATALOG.md)
