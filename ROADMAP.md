@@ -66,6 +66,33 @@ S-3. Reflection to Action MCP
 
 詳細な境界は [FREE_PAID_BOUNDARY.md](./FREE_PAID_BOUNDARY.md) を参照。
 
+## Phase 2.5: 2026-07-07 アンバサダー募集連動
+
+7/7のアンバサダー募集開始に合わせて、無料MCP公開と事前告知を束ねる。
+
+狙い:
+
+- Xで事前認知を作る
+- noteで背景と使い道を説明する
+- GitHubで候補と実装状況を見せる
+- MCP公開をアンバサダー募集の話題化に接続する
+- Agent Memoriesへ「楽できる自動化」と「記憶で改善する」導線を作る
+
+優先して見せる価値:
+
+- 1テーマから7日分のX投稿ができる
+- note / Tips / 他SNSも準備できる
+- 毎回考える手間を減らせる
+- 投稿結果や改善メモを次に活かせる
+
+7/7までの準備:
+
+- X Japanese Business Auto Post MCP の公開repo/README/demoを整える
+- noteで開発背景と使い方の予告記事を出す
+- Xで数回に分けて予告する
+- 他MCP候補も公開候補として見せる
+- アンバサダー募集開始時に、MCP公開・参加メリット・今後の展開を同時に伝える
+
 ## Phase 3: alpha実装repoまたは同repo内prototype
 
 方針:
