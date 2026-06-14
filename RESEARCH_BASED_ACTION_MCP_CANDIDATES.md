@@ -62,7 +62,45 @@ Press angle:
 
 - Japanese note publishing workflow MCP for creators and small businesses.
 
-### S-2. X Japanese Business Auto Post MCP
+### S-2. Tips Article Publishing MCP
+
+Why it matters:
+
+- Tips is a Japanese paid-content and creator-commerce platform.
+- Official guidance exists, but many creators still struggle to connect article
+  creation, formatting, cover images, sales links, and publishing operations.
+- This fits both Agent Memories and Gasおじ-style tool distribution: publish a
+  useful free helper first, then expand into remembered writing style, product
+  boundaries, and launch workflows.
+
+Free flagship scope:
+
+- Create Tips-ready article body.
+- Prepare title, lead, paid/free boundary notes, CTA, and tag suggestions.
+- Prepare cover/eyecatch checklist.
+- Generate a publish checklist and manual handoff.
+- Create or update a draft only when a safe authenticated route and platform
+  rules are confirmed.
+- Keep human confirmation before publish.
+
+Agent Memories expansion:
+
+- Remember product positioning, article style, price boundary, CTA pattern,
+  reader questions, and revision lessons.
+- Store article URL, update history, sales/reaction notes, and next launch
+  ideas.
+
+Gasおじ expansion:
+
+- GAS utilities can use the same distribution philosophy: free useful tool,
+  clear docs, visible examples, and upgrade path through templates, paid
+  articles, or support.
+
+Press angle:
+
+- Tips article workflow MCP for Japanese creators and paid content sellers.
+
+### S-3. X Japanese Business Auto Post MCP
 
 Why it matters:
 
@@ -89,7 +127,36 @@ Press angle:
 
 - Japanese business posting MCP with human review and memory-based improvement.
 
-### S-3. YouTube to Multi-Channel Repurpose MCP
+### S-4. Multi-SNS Publishing Prep MCP
+
+Why it matters:
+
+- Users do not want one isolated posting helper. They want X, Threads, Bluesky,
+  Instagram, LinkedIn, note, Tips, Zenn, and blogs to work as one publishing
+  flow.
+- Even if some platforms require manual confirmation, a unified preparation
+  MCP is valuable because it creates platform-specific copy and checklists.
+
+Free flagship scope:
+
+- Generate platform-specific posts from one source idea.
+- Prepare X thread, Threads post, Bluesky post, Instagram caption, LinkedIn
+  post, note outline, Tips outline, and blog outline.
+- Add platform-specific warnings, length checks, and CTA variations.
+- Export a publishing packet.
+- Keep actual posting human-confirmed unless official/safe posting routes are
+  confirmed.
+
+Agent Memories expansion:
+
+- Remember platform-specific tone, audience, hashtag style, CTA, and past
+  performance notes.
+
+Press angle:
+
+- Japanese multi-platform creator publishing MCP.
+
+### S-5. YouTube to Multi-Channel Repurpose MCP
 
 Why it matters:
 
@@ -222,9 +289,11 @@ Free flagship scope:
 Recommended first wave:
 
 1. note Auto Publishing MCP
-2. X Japanese Business Auto Post MCP
-3. Agent Memory Launch Pack MCP
-4. YouTube to Multi-Channel Repurpose MCP
+2. Tips Article Publishing MCP
+3. X Japanese Business Auto Post MCP
+4. Multi-SNS Publishing Prep MCP
+5. Agent Memory Launch Pack MCP
+6. YouTube to Multi-Channel Repurpose MCP
 
 Why:
 
@@ -233,6 +302,8 @@ Why:
 - They create content that promotes themselves.
 - They connect directly to Agent Memories.
 - They support Miraigent's SEO, note, SNS, GitHub, npm, and press strategy.
+- They can also support Gasおじ-style GAS tool distribution without mixing the
+  brands or repositories.
 
 ## Free vs Paid Principle
 

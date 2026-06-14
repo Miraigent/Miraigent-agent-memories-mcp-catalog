@@ -30,7 +30,9 @@
 優先候補:
 
 S-0. note Auto Publishing MCP
+S-0. Tips Article Publishing MCP
 S-0. X Japanese Business Auto Post MCP
+S-0. Multi-SNS Publishing Prep MCP
 S-1. Creator Growth Memory Kit MCP
 S-2. Agent Memory Launch Pack MCP
 S-3. Reflection to Action MCP
