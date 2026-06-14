@@ -41,7 +41,7 @@ Miraigent uses this work in two ways:
 
 ## Repository Plan
 
-This directory is a public-ready staging area inside the Miraigent site repository.
+This directory is a public-ready staging area inside the Miraigent Agent Memories MCP catalog repository.
 
 As the work matures, the clean public materials can be moved into separate repositories:
 

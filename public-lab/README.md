@@ -1,8 +1,8 @@
 # Miraigent Public Lab
 
-This directory keeps public-ready project notes that can be shown on GitHub without mixing them into the production website build.
+This directory keeps public-ready project notes that can be shown on GitHub.
 
-The production website is deployed from `.pages-deploy`. Public Lab materials are for GitHub visibility, roadmap sharing, open-source preparation, and later extraction into dedicated repositories.
+Public Lab materials are for GitHub visibility, roadmap sharing, open-source preparation, and later extraction into dedicated implementation repositories.
 
 ## Areas
 
@@ -28,4 +28,4 @@ Public Lab makes the ongoing work easier to follow:
 - how MCP tools and AI operations templates connect to Miraigent
 - how Agent Memories evolves into reusable memory infrastructure
 
-When an area becomes mature enough, move it to a dedicated public repository and keep this directory as the lightweight index.
+When an area becomes mature enough, move implementation into a dedicated public repository and keep this directory as the lightweight index.
