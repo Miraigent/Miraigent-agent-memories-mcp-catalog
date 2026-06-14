@@ -11,6 +11,7 @@ Agent Memoriesで使う予定のMCP候補を整理する公開カタログです
 AIに投稿下書きを作らせるたびに、同じ口調、NG表現、構成を説明している人向けに、まず1回だけ使える無料テンプレを置いています。
 
 - 無料テンプレ: [Creator Style Memory Starter](./FREE_CREATOR_STYLE_MEMORY_STARTER.md)
+- 30秒版の使い方: [Creator Style Memory Quickstart](./CREATOR_STYLE_MEMORY_QUICKSTART.md)
 - 使いどころ: X投稿、note導入文、ブログ構成、商品紹介文、AIキャラクター口調メモ
 - 次の小さな行動: テンプレを1枚埋めて、次のAI下書きの前に貼る
 - 欲しい拡張を送る: https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?template=use_case.md
@@ -70,7 +71,7 @@ Agent Memories本体や契約者向けでは、複数用途の継続記憶、反
 ## 想定ユーザー
 
 - Agent Memoriesを使いたい個人ユーザー
-- AIキャラクターやAIコンパニオンを運用したい人
+- AIキャラクターやAIパートナーを運用したい人
 - SNS、ブログ、note、創作、漫画、動画でAIを使いたいクリエイター
 - 学習、調査、生活不安、手続き整理をAIに手伝ってほしい人
 - 個人事業主や副業ユーザー
