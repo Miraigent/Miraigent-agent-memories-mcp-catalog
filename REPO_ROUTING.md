@@ -33,22 +33,19 @@ Do not put these here:
 
 ### Miraigent site
 
-- Repo: `rebirth-ai/miraigent-site`
-- Local: `/home/ubuntu/.openclaw/workspace-violet/projects/agent-works/miraigent-site`
+- Repo: private Miraigent website repository
 - Purpose: official site, blog, diagnosis pages, public resource pages
 - Rule: link to Agent Memories work when useful, but do not keep the Agent Memories catalog here
 
 ### Free AI Ops MCP
 
 - Repo: `Miraigent/miraigent-free-ai-ops-mcp`
-- Local: `/home/ubuntu/.openclaw/workspace-violet/projects/agent-works/miraigent-free-ai-ops-mcp`
 - npm: `@miraigent/free-ai-ops-mcp`
 - Purpose: working MCP server package for AI operations tools
 
 ### AI Ops Templates
 
 - Repo: `Miraigent/miraigent-ai-ops-templates`
-- Local: `/home/ubuntu/.openclaw/workspace-violet/projects/agent-works/miraigent-ai-ops-templates`
 - npm: `@miraigent/ai-ops-templates`
 - Purpose: public templates and starter MCP materials
 

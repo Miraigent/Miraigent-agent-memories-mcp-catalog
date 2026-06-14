@@ -25,3 +25,6 @@ jobs:
       - name: Public boundary wording
         run: |
           grep -R "MIRAI Memory本体" README.md CATALOG.md FREE_PAID_BOUNDARY.md ROADMAP.md THREE_TIER_PRODUCT_DESIGN.md CONTRIBUTING.md
+
+      - name: Public/private repository boundary
+        run: node scripts/check-public-boundary.mjs
