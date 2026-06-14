@@ -89,20 +89,13 @@ S-3. Reflection to Action MCP
    - 利用者本人のアカウントで、各サービス規約と本人確認の範囲で使う前提にする
    - 初回公開候補として、Issueと認知を集める
 
-1. Reflection Lite MCP
-   - 今日の出来事、失敗、改善点を整理する
-   - 記憶候補、次回チェック項目、保留すべき項目を出す
-   - Agent Memoriesへの誘導が最も自然
+保留/部品扱い:
 
-2. SNS下書き Lite MCP
-   - テーマ、口調、避けたい表現から投稿案を作る
-   - SNS別の型、返信案、連投構成、改善メモを出す
-   - クリエイター層からIssueを集めやすい
+- Reflection Lite MCP
+- SNS下書き Lite MCP
+- ブログ/note構成 Lite MCP
 
-3. ブログ/note構成 Lite MCP
-   - メモから見出し案、導入文、CTA案を作る
-   - Zenn、Qiita、noteの記事導線と相性がよい
-   - 読者像や記事ジャンルの要望を集めやすい
+これらは単体ではBtoCユーザーの欲求が弱い。看板候補としては出さず、Creator Growth Memory Kit、Agent Memory Launch Pack、note Auto Publishing MCP、X Japanese Business Auto Post MCPなどの中に部品として組み込む。
 
 ## Issueで集めるもの
 
@@ -177,10 +170,12 @@ Issueに書かないでほしいもの:
 
 最初の実装順:
 
-0. Auto Post & Improve Starter MCP
-1. Reflection Lite MCP
-2. SNS下書き Lite MCP
-3. ブログ/note構成 Lite MCP
+0. note Auto Publishing MCP
+1. X Japanese Business Auto Post MCP
+2. Agent Memory Launch Pack MCP
+3. Creator Growth Memory Kit MCP
+4. YouTube to Multi-Channel Repurpose MCP
+5. Reflection to Action MCP
 
 Auto Post & Improve Starterを初回無料で出す理由:
 
@@ -192,11 +187,12 @@ Auto Post & Improve Starterを初回無料で出す理由:
 - Issueで、媒体別投稿フロー、投稿後記録、改善メモ、承認フロー、危険な自動化の境界について要望を集めやすい
 - 無料でも強く見せつつ、有料版には「覚えて伸ばし続ける」価値を残せる
 
-Reflection Liteを次に実装する理由:
+Lite系を看板にしない理由:
 
-- Agent Memoriesの本質に最も近い
-- 無料で試した後に「これを記憶として残したい」という導線が作りやすい
-- Issueで、記憶分類、昇格基準、振り返り項目の改善要望を集めやすい
+- BtoCユーザーにとって成果が小さく見える
+- 「すごい、使える」とSNSで拡散されにくい
+- 無料配布の目的である認知獲得に弱い
+- 必要な機能ではあるが、強い無料ツールの内部部品として使うほうがよい
 
 ## 自動投稿の公開境界
 

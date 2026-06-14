@@ -114,6 +114,22 @@ Agent Memories接続:
 
 - 反省で終わらせず、次回の行動ルールとして残す
 
+## 保留/部品扱いの候補
+
+次の候補は、単体の無料看板MCPにはしない。
+
+- Creator Style Memory
+- Reflection Lite
+- Auto Post & Improve Lite
+- SNS下書き Lite
+- ブログ/note構成 Lite
+
+理由:
+
+- BtoCユーザーが「すごい、使える」と感じる成果物として弱い
+- 無料配布の目的である認知獲得と10,000 impressions級の注目に届きにくい
+- 必要な機能ではあるが、note Auto Publishing MCP、X Japanese Business Auto Post MCP、Creator Growth Memory Kit MCP、Agent Memory Launch Pack MCPの内部部品として扱うほうがよい
+
 ## 優先度A: 初回無料候補
 
 ### 0. Auto Post & Improve Starter MCP

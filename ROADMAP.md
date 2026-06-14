@@ -35,9 +35,14 @@ S-1. Creator Growth Memory Kit MCP
 S-2. Agent Memory Launch Pack MCP
 S-3. Reflection to Action MCP
 0. Auto Post & Improve Starter MCP
-1. Reflection Lite MCP
-2. SNS下書き Lite MCP
-3. ブログ/note構成 Lite MCP
+
+保留/部品扱い:
+
+- Reflection Lite MCP
+- SNS下書き Lite MCP
+- ブログ/note構成 Lite MCP
+
+これらは単体の看板候補にしない。BtoCユーザーが「すごい、使える」と感じる強い成果物の一部として組み込む。
 
 理由:
 
@@ -54,6 +59,7 @@ S-3. Reflection to Action MCP
 - 無料版はその場で試し、有料版は記憶として積み上げる境界を作りやすい
 - 見せ方は「投稿体験 -> 記録したくなる -> Agent Memories登録」の順番にする
 - 初回検証はX単体から開始し、成功パターンをnote/ブログへ横展開する
+- 今月の目標は、無料MCP公開と関連発信で10,000 impressions級の注目を狙うこと。小さな補助機能ではなく、SNSで説明した瞬間に使い道が伝わるものを優先する。
 
 詳細な境界は [FREE_PAID_BOUNDARY.md](./FREE_PAID_BOUNDARY.md) を参照。
 
