@@ -288,9 +288,9 @@ Free flagship scope:
 
 Recommended first wave:
 
-1. note Auto Publishing MCP
-2. Tips Article Publishing MCP
-3. X Japanese Business Auto Post MCP
+1. X Japanese Business Auto Post MCP
+2. note Auto Publishing MCP
+3. Tips Article Publishing MCP
 4. Multi-SNS Publishing Prep MCP
 5. Agent Memory Launch Pack MCP
 6. YouTube to Multi-Channel Repurpose MCP
@@ -304,6 +304,33 @@ Why:
 - They support Miraigent's SEO, note, SNS, GitHub, npm, and press strategy.
 - They can also support Gasおじ-style GAS tool distribution without mixing the
   brands or repositories.
+
+## First Implementation Target
+
+Start with X Japanese Business Auto Post MCP.
+
+Implementation owner: ConoHa VPS members.
+
+Reason:
+
+- X is the fastest channel for public attention and impressions.
+- It can promote every following MCP release.
+- It connects directly to the 10,000 impressions goal.
+- It creates visible proof that Miraigent / Agent Memories can ship useful
+  action-oriented tools.
+
+First public version should focus on:
+
+- Japanese business post generation.
+- Thread generation.
+- Human review before posting.
+- Safe posting route through official or user-confirmed flow.
+- Post result summary.
+- Next-post improvement memo.
+- Agent Memories memory candidates for tone, CTA, audience, and improvement.
+
+Do not start with hidden long-term memory implementation. Start with a public
+tool that people can understand and share quickly.
 
 ## Free vs Paid Principle
 

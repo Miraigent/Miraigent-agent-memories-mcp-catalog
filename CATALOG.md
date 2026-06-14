@@ -12,7 +12,7 @@
 
 目的は、GitHub/npm/Agent Memoriesへ人を集めること。無料でも、使った瞬間に具体的な成果が出る候補を優先する。
 
-最初の公開波では、note Auto Publishing MCP、Tips Article Publishing MCP、X Japanese Business Auto Post MCP、Multi-SNS Publishing Prep MCP を強い候補として扱う。note/Tipsは日本市場で差別化しやすく、Xや他SNSは拡散の中心になる。
+最初の公開波では、X Japanese Business Auto Post MCP、note Auto Publishing MCP、Tips Article Publishing MCP、Multi-SNS Publishing Prep MCP を強い候補として扱う。最初の実装はXから始める。Xは拡散の中心で、note/Tipsは日本市場で差別化しやすい。
 
 ### S-1. Creator Growth Memory Kit MCP
 

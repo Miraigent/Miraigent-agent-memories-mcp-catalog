@@ -34,6 +34,7 @@ Issueを送る:
 ## いま見てほしい候補
 
 - 需要リサーチベースの攻めた候補: [Research-Based Action MCP Candidates](./RESEARCH_BASED_ACTION_MCP_CANDIDATES.md)
+- 最初の実装ハンドオフ: [X Japanese Business Auto Post MCP](./implementation-handoff/x-japanese-business-auto-post-mcp.md)
 - Creator Growth Memory Kit: 口調、投稿テーマ、NG表現、30日分の発信案、改善メモをまとめて作る
 - Agent Memory Launch Pack: 1つの企画から、note、Xスレッド、ブログ構成、FAQ、プレス下書きまで作る
 - Auto Post & Improve: 投稿して終わりにせず、反応メモと次回改善へつなぐ
