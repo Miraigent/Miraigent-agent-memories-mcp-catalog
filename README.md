@@ -33,6 +33,7 @@ Issueを送る:
 
 ## いま見てほしい候補
 
+- 需要リサーチベースの攻めた候補: [Research-Based Action MCP Candidates](./RESEARCH_BASED_ACTION_MCP_CANDIDATES.md)
 - Creator Growth Memory Kit: 口調、投稿テーマ、NG表現、30日分の発信案、改善メモをまとめて作る
 - Agent Memory Launch Pack: 1つの企画から、note、Xスレッド、ブログ構成、FAQ、プレス下書きまで作る
 - Auto Post & Improve: 投稿して終わりにせず、反応メモと次回改善へつなぐ
@@ -86,6 +87,7 @@ Agent Memories本体や契約者向けでは、複数用途の継続記憶、反
 - repo更新先の整理: [REPO_ROUTING.md](./REPO_ROUTING.md)
 - 公開導線の整理: [DISTRIBUTION_FLOW.md](./DISTRIBUTION_FLOW.md)
 - 候補一覧: [CATALOG.md](./CATALOG.md)
+- 需要リサーチベースの攻めたMCP候補: [RESEARCH_BASED_ACTION_MCP_CANDIDATES.md](./RESEARCH_BASED_ACTION_MCP_CANDIDATES.md)
 - 無料/有料の境界と機能比較: [FREE_PAID_BOUNDARY.md](./FREE_PAID_BOUNDARY.md)
 - 3段階商品設計: [THREE_TIER_PRODUCT_DESIGN.md](./THREE_TIER_PRODUCT_DESIGN.md)
 - 公開ロードマップ: [ROADMAP.md](./ROADMAP.md)

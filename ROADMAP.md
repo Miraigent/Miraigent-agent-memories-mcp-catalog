@@ -25,9 +25,12 @@
 - 法的NG、規約違反、認証回避、個人情報漏洩は避ける
 - ただし、価値の中心を削りすぎない
 - 無料で成果を出し、継続記憶/長期改善/個別最適化をAgent Memoriesへつなげる
+- 需要リサーチベース候補は [RESEARCH_BASED_ACTION_MCP_CANDIDATES.md](./RESEARCH_BASED_ACTION_MCP_CANDIDATES.md) を正本にする
 
 優先候補:
 
+S-0. note Auto Publishing MCP
+S-0. X Japanese Business Auto Post MCP
 S-1. Creator Growth Memory Kit MCP
 S-2. Agent Memory Launch Pack MCP
 S-3. Reflection to Action MCP

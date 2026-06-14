@@ -4,11 +4,15 @@
 
 候補は「無料で試せるもの」「Agent Memories契約者向けに育てるもの」「Miraigentの業務導線へつなぐもの」に分けて検討します。
 
+需要リサーチベースの攻めた候補は [RESEARCH_BASED_ACTION_MCP_CANDIDATES.md](./RESEARCH_BASED_ACTION_MCP_CANDIDATES.md) も参照します。
+
 ## 優先度S: 集客用無料フラッグシップ候補
 
 無料MCPは「小さな体験版」だけにしない。
 
 目的は、GitHub/npm/Agent Memoriesへ人を集めること。無料でも、使った瞬間に具体的な成果が出る候補を優先する。
+
+最初の公開波では、note Auto Publishing MCP と X Japanese Business Auto Post MCP を強い候補として扱う。noteは日本市場で差別化しやすく、Xは拡散の中心になる。
 
 ### S-1. Creator Growth Memory Kit MCP
 
