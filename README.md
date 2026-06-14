@@ -80,6 +80,7 @@ Agent Memories本体や契約者向けでは、複数用途の継続記憶、反
 ## 最初に見るもの
 
 - repo更新先の整理: [REPO_ROUTING.md](./REPO_ROUTING.md)
+- 公開導線の整理: [DISTRIBUTION_FLOW.md](./DISTRIBUTION_FLOW.md)
 - 候補一覧: [CATALOG.md](./CATALOG.md)
 - 無料/有料の境界と機能比較: [FREE_PAID_BOUNDARY.md](./FREE_PAID_BOUNDARY.md)
 - 3段階商品設計: [THREE_TIER_PRODUCT_DESIGN.md](./THREE_TIER_PRODUCT_DESIGN.md)

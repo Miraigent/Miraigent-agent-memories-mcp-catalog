@@ -73,6 +73,8 @@ Use this sequence for new MCP tools:
    - public URL
    - npm URL if available
 
+For audience routing and next actions, also update [DISTRIBUTION_FLOW.md](./DISTRIBUTION_FLOW.md).
+
 ## Quick Rule
 
 Catalog and visibility live here.
