@@ -108,14 +108,20 @@ Why it matters:
 - Japanese business use cases are underserved compared with English developer
   tooling.
 - It can drive visible distribution for every Miraigent / Agent Memories asset.
+- BtoC users want to reduce repetitive work. A strong X MCP should sell
+  "one theme becomes a week of posts" rather than only "better post drafts".
 
 Free flagship scope:
 
-- Generate Japanese business posts, threads, and replies.
+- Generate a 7-day X posting plan from one theme.
+- Generate Japanese business posts, threads, and replies in batch.
 - Add pre-post risk and tone checks.
 - Optimize hook, CTA, hashtags, and thread order.
-- Post through official or safe user-confirmed flow where available.
-- Save a local result summary.
+- Let the user approve the batch once.
+- Schedule or prepare posts through official or safe user-confirmed flow where
+  available.
+- Save a daily/weekly result summary.
+- Suggest the next batch from the results.
 
 Agent Memories expansion:
 
@@ -321,16 +327,19 @@ Reason:
 
 First public version should focus on:
 
+- One input to 7 days of X posts.
 - Japanese business post generation.
 - Thread generation.
-- Human review before posting.
+- Batch approval before posting.
 - Safe posting route through official or user-confirmed flow.
+- Scheduled posting or posting packet.
 - Post result summary.
 - Next-post improvement memo.
 - Agent Memories memory candidates for tone, CTA, audience, and improvement.
 
 Do not start with hidden long-term memory implementation. Start with a public
-tool that people can understand and share quickly.
+tool that people can understand and share quickly: "I entered one theme and got
+a week of posts ready."
 
 ## Free vs Paid Principle
 
