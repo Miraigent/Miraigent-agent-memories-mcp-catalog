@@ -83,6 +83,7 @@ Agent Memories本体や契約者向けでは、複数用途の継続記憶、反
 - 無料/有料の境界と機能比較: [FREE_PAID_BOUNDARY.md](./FREE_PAID_BOUNDARY.md)
 - 3段階商品設計: [THREE_TIER_PRODUCT_DESIGN.md](./THREE_TIER_PRODUCT_DESIGN.md)
 - 公開ロードマップ: [ROADMAP.md](./ROADMAP.md)
+- 公開活動ログ / MCP設計メモ: [public-lab/agent-memories](./public-lab/agent-memories/README.md)
 - Issue投稿ルール: [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## 公開するもの
