@@ -16,10 +16,21 @@
 - THREE_TIER_PRODUCT_DESIGN
 - Issue template
 
-## Phase 2: 初回無料候補の選定
+## Phase 2: 集客用無料フラッグシップの選定
+
+方針:
+
+- 無料MCPは小さすぎる体験版にしない
+- まず人が集まる強い無料ツールを出す
+- 法的NG、規約違反、認証回避、個人情報漏洩は避ける
+- ただし、価値の中心を削りすぎない
+- 無料で成果を出し、継続記憶/長期改善/個別最適化をAgent Memoriesへつなげる
 
 優先候補:
 
+S-1. Creator Growth Memory Kit MCP
+S-2. Agent Memory Launch Pack MCP
+S-3. Reflection to Action MCP
 0. Auto Post & Improve Starter MCP
 1. Reflection Lite MCP
 2. SNS下書き Lite MCP
@@ -27,6 +38,10 @@
 
 理由:
 
+- 無料配布の目的は、Issue収集だけでなく認知と集客を作ること
+- 使った直後に「便利」と分かる成果物を出す
+- SNS/note/GitHubで紹介されやすい
+- Agent Memories本体へ「この設定や改善を残したい」という動機を作る
 - 初回公開候補として、一般無料では規約/API許可範囲内の投稿補助、または本人確認付きのテキスト投稿実行まで出す
 - 投稿URL、投稿結果、反応メモ、次回改善案はAgent Memoriesユーザー特典にする
 - 画像、動画、複数媒体、定期投稿、長期反応分析は有料/上位拡張に残す

@@ -33,11 +33,14 @@ Issueを送る:
 
 ## いま見てほしい候補
 
+- Creator Growth Memory Kit: 口調、投稿テーマ、NG表現、30日分の発信案、改善メモをまとめて作る
+- Agent Memory Launch Pack: 1つの企画から、note、Xスレッド、ブログ構成、FAQ、プレス下書きまで作る
 - Auto Post & Improve: 投稿して終わりにせず、反応メモと次回改善へつなぐ
-- Reflection Lite: 今日の会話や作業から、次に残す記憶候補を作る
-- Creator Style Memory: 投稿の口調、構成、NG表現、勝ちパターンを整理する
+- Reflection to Action: 今日の会話や作業から、次に残す記憶候補と具体アクションを作る
 
 まずは「どれが一番ほしいか」だけでもIssueに残せるようにしています。
+
+無料MCPは、単なる体験版ではなく、使った人が「これを継続して記憶に残したい」と感じる入口にします。
 
 ## まず解決したい痛み
 
