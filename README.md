@@ -50,6 +50,14 @@ https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?tem
 4行テンプレを実際に試した人は、結果だけでも送れます。
 https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?template=creator_style_trial_report.md
 
+試した結果を送る時は、長い説明はいりません。
+
+- 使った場面: X / note / blog / 商品紹介文 / キャラクター口調メモ
+- 減った修正: 口調 / NG表現 / 構成 / CTA / まだ変わらない
+- 次にほしい形: ファイル版 / 用途別テンプレ / 投稿後Reflection / Agent Memories連携
+
+この3つだけで、次に作る無料版とPro版の境界を決めやすくなります。
+
 ## 試したあとにダウンロードする
 
 4行テンプレを試して「AIに貼る前の確認表もファイルで持ちたい」と感じた人向けに、無料のGumroadキットを置いています。
