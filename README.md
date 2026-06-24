@@ -58,6 +58,44 @@ https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?tem
 
 この3つだけで、次に作る無料版とPro版の境界を決めやすくなります。
 
+## Try in 30 seconds
+
+If you keep re-explaining your writing style to AI, try this before your next draft.
+
+Fill only these four lines first:
+
+```text
+Base tone:
+Words to avoid:
+Favorite structure:
+Today's topic:
+```
+
+Then paste this:
+
+```text
+Please write one draft using the style memory below.
+
+Base tone:
+Words to avoid:
+Favorite structure:
+Today's topic:
+```
+
+Check only three things after the draft:
+
+- Did it avoid words you normally would not use?
+- Did it reduce one correction?
+- Did it reveal one note worth keeping for next time?
+
+If yes, that is the smallest version of Agent Memories: a reusable correction note before the full product route.
+
+GitHub is the proof/trial route. Gumroad is only for people who already want a downloadable file kit.
+
+- Free template: [Creator Style Memory Starter](./FREE_CREATOR_STYLE_MEMORY_STARTER.md)
+- Quickstart: [Creator Style Memory Quickstart](./CREATOR_STYLE_MEMORY_QUICKSTART.md)
+- Send a trial report: https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?template=creator_style_trial_report.md
+
 ## 試したあとにダウンロードする
 
 4行テンプレを試して「AIに貼る前の確認表もファイルで持ちたい」と感じた人向けに、無料のGumroadキットを置いています。
