@@ -11,8 +11,8 @@ AIに毎回同じ説明をしなくてよくするための、無料スタイル
 3. 出てきた文章を見て、次回も使いたい修正点を追記する
 4. ほしい拡張があればIssueで送る
 
-Issueで送る:
-https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?template=use_case.md
+試した結果を3択で送る:
+https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?template=creator_style_trial_report.md
 
 ## 30秒で試す
 

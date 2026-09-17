@@ -78,5 +78,8 @@ Pro / subscriber route candidate:
 詳しいテンプレ:
 [Creator Style Memory Starter](./FREE_CREATOR_STYLE_MEMORY_STARTER.md)
 
+前回の修正を1つだけ次の下書きへ渡す:
+[One-Correction Trial](./ONE_CORRECTION_TRIAL.md)
+
 欲しい用途を送る:
 https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?template=use_case.md

@@ -12,6 +12,9 @@ AIに投稿下書きを作らせるたびに、同じ口調、NG表現、構成�
 
 - 無料テンプレ: [Creator Style Memory Starter](./FREE_CREATOR_STYLE_MEMORY_STARTER.md)
 - 30秒版の使い方: [Creator Style Memory Quickstart](./CREATOR_STYLE_MEMORY_QUICKSTART.md)
+- 1回の修正を次へ渡す: [One-Correction Trial](./ONE_CORRECTION_TRIAL.md)
+- 前後を1回だけ比べる: [Creator Style Trial Measurement Card](./CREATOR_STYLE_TRIAL_MEASUREMENT_CARD.md)
+- X/note向け発信のたたき台: [Creator Style Try-Now Post Set](./CREATOR_STYLE_MEMORY_TRY_NOW_POST_SET.md)
 - 使いどころ: X投稿、note導入文、ブログ構成、商品紹介文、AIキャラクター口調メモ
 - 次の小さな行動: テンプレを1枚埋めて、次のAI下書きの前に貼る
 - 欲しい拡張を送る: https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?template=use_case.md
@@ -58,6 +61,14 @@ https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?tem
 
 この3つだけで、次に作る無料版とPro版の境界を決めやすくなります。
 
+## 振り返りを次の行動へつなげる（無料で1回）
+
+振り返りを書いても次回に活きない人は、[Reflection to Next Action Quickstart](./REFLECTION_TO_NEXT_ACTION_QUICKSTART.md) の3行を埋めてください。今日わかったことを、次回も残す記憶候補1つと、明日からできる行動1つに整理します。
+
+- 無料: 3行の手動入力、1回の整理、公開安全な例
+- 上位候補: 複数用途の履歴、優先度、継続運用、Agent Memories連携
+- 結果を共有: https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?template=reflection_to_next_action.md
+
 ## Try in 30 seconds
 
 If you keep re-explaining your writing style to AI, try this before your next draft.
@@ -95,6 +106,7 @@ GitHub is the proof/trial route. Gumroad is only for people who already want a d
 - Free template: [Creator Style Memory Starter](./FREE_CREATOR_STYLE_MEMORY_STARTER.md)
 - Quickstart: [Creator Style Memory Quickstart](./CREATOR_STYLE_MEMORY_QUICKSTART.md)
 - Send a trial report: https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?template=creator_style_trial_report.md
+- After you try it: download the free AI draft review kit on Gumroad: https://miraigent.gumroad.com/l/human-review-gate-ai-drafts?utm_source=github&utm_medium=readme&utm_campaign=agent_memories_catalog_after_trial
 
 ## 試したあとにダウンロードする
 
