@@ -14,6 +14,7 @@ AIに投稿下書きを作らせるたびに、同じ口調、NG表現、構成�
 - 30秒版の使い方: [Creator Style Memory Quickstart](./CREATOR_STYLE_MEMORY_QUICKSTART.md)
 - 1回の修正を次へ渡す: [One-Correction Trial](./ONE_CORRECTION_TRIAL.md)
 - 前後を1回だけ比べる: [Creator Style Trial Measurement Card](./CREATOR_STYLE_TRIAL_MEASUREMENT_CARD.md)
+- 入力と出力の公開例: [Creator Style Before / After Sample](./CREATOR_STYLE_MEMORY_BEFORE_AFTER_SAMPLE.md)
 - X/note向け発信のたたき台: [Creator Style Try-Now Post Set](./CREATOR_STYLE_MEMORY_TRY_NOW_POST_SET.md)
 - 使いどころ: X投稿、note導入文、ブログ構成、商品紹介文、AIキャラクター口調メモ
 - 次の小さな行動: テンプレを1枚埋めて、次のAI下書きの前に貼る
