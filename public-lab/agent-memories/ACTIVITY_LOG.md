@@ -17,6 +17,13 @@ This log tracks public-facing progress. It is not an internal operations log.
 - Free AI operations MCP on npm: https://www.npmjs.com/package/@miraigent/free-ai-ops-mcp
 - AI operations templates on npm: https://www.npmjs.com/package/@miraigent/ai-ops-templates
 
+## 2026-09-23
+
+- Added a note-ready free-trial article for Creator Style Memory.
+- Kept the product core unchanged: a four-line manual style note is pasted into the next AI draft.
+- The article puts the free artifact and first action before product positioning, then states the manual one-use limit and the unshipped upgrade candidates.
+- The public GitHub catalog remains the proof route; external X/note reaction measurements are still separate from this repository.
+
 ## Next Public Updates
 
 - Add safe example memory profiles.

@@ -17,6 +17,7 @@ AIに投稿下書きを作らせるたびに、同じ口調、NG表現、構成�
 - 試した結果を1枚に残す: [Creator Style Memory Trial Receipt](./CREATOR_STYLE_MEMORY_TRIAL_RECEIPT.md)
 - 入力と出力の公開例: [Creator Style Before / After Sample](./CREATOR_STYLE_MEMORY_BEFORE_AFTER_SAMPLE.md)
 - X/note向け発信のたたき台: [Creator Style Try-Now Post Set](./CREATOR_STYLE_MEMORY_TRY_NOW_POST_SET.md)
+- note向け無料試用記事: [Creator Style Memory Note Free Trial Article](./CREATOR_STYLE_MEMORY_NOTE_FREE_TRIAL_ARTICLE.md)
 - 使いどころ: X投稿、note導入文、ブログ構成、商品紹介文、AIキャラクター口調メモ
 - 次の小さな行動: テンプレを1枚埋めて、次のAI下書きの前に貼る
 - 欲しい拡張を送る: https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?template=use_case.md
