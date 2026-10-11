@@ -11,7 +11,7 @@ Agent Memoriesで使う予定のMCP候補を整理する公開カタログです
 AIに投稿下書きを作らせるたびに、同じ口調、NG表現、構成を説明している人向けに、まず1回だけ使える無料テンプレを置いています。
 
 - 無料テンプレ: [Creator Style Memory Starter](./FREE_CREATOR_STYLE_MEMORY_STARTER.md)
-- 30秒版の使い方: [Creator Style Memory Quickstart](./CREATOR_STYLE_MEMORY_QUICKSTART.md)
+- 短い使い方: [Creator Style Memory Quickstart](./CREATOR_STYLE_MEMORY_QUICKSTART.md)
 - 1回の修正を次へ渡す: [One-Correction Trial](./ONE_CORRECTION_TRIAL.md)
 - 前後を1回だけ比べる: [Creator Style Trial Measurement Card](./CREATOR_STYLE_TRIAL_MEASUREMENT_CARD.md)
 - 試した結果を1枚に残す: [Creator Style Memory Trial Receipt](./CREATOR_STYLE_MEMORY_TRIAL_RECEIPT.md)
@@ -22,7 +22,7 @@ AIに投稿下書きを作らせるたびに、同じ口調、NG表現、構成�
 - 次の小さな行動: テンプレを1枚埋めて、次のAI下書きの前に貼る
 - 欲しい拡張を送る: https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?template=use_case.md
 
-## 1分で試すコピペブロック
+## まず1本で試すコピペブロック
 
 Xやnoteで「AIに毎回同じ投稿スタイルを説明している」と感じた人は、まず次の4行だけを埋めてAIに貼ってください。
 
@@ -44,25 +44,26 @@ Xやnoteで「AIに毎回同じ投稿スタイルを説明している」と感�
 今回のテーマ:
 ```
 
-試したあとに見ること:
+下書きを読んだら、次回にも残す文体の指示を1つ、自分のメモへ保存します。4行とその指示を次の依頼時に手動で貼り直してください。自動保存・永続記憶ではありません。
 
-- 自分が使わない言葉が減ったか
-- 直す回数が少しでも減ったか
-- 次回も残したい修正メモが1つ見つかったか
+```text
+用途:
+次回も残す指示:
+次の依頼に貼り直したか: はい / いいえ / まだ試していない
+```
 
-1つでも当てはまったら、欲しい用途をIssueで送ってください。
-https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?template=use_case.md
+1本の試用だけでは修正削減の効果は未測定です。比較は必須ではありません。必要な時だけ[無料テンプレの比較手順](./FREE_CREATOR_STYLE_MEMORY_STARTER.md#修正数を比べたい時だけ任意)で条件をそろえ、直した文の数を数えます。0件と未測定は区別し、条件が違う・不明なら「比較しない」にします。
 
-4行テンプレを実際に試した人は、結果だけでも送れます。
+事実・安全性は文体と別に確認します。個人情報、顧客情報、秘密値、非公開の会話や創作設定は入力せず、公開してよい仮例で試してください。AIサービスの規約と入力の扱いも確認します。
+
+4行テンプレを試した人は、未測定でも公開してよい結果を送れます（任意）。会話本文は不要です。テンプレの閲覧・コピーにはGitHubアカウントは不要で、Issueの投稿には必要です。
 https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?template=creator_style_trial_report.md
 
-試した結果を送る時は、長い説明はいりません。
+- 使った場面: X / note / ブログ / 商品紹介文 / 公開用キャラクター口調
+- 結果: 未測定 / 比較しない / 減った / 同じ / 増えた
+- 次回も残す指示: 公開してよい一般的な1行（任意）
 
-- 使った場面: X / note / blog / 商品紹介文 / キャラクター口調メモ
-- 減った修正: 口調 / NG表現 / 構成 / CTA / まだ変わらない
-- 次にほしい形: ファイル版 / 用途別テンプレ / 投稿後Reflection / Agent Memories連携
-
-この3つだけで、次に作る無料版とPro版の境界を決めやすくなります。
+無料は1用途の手動メモです。継続履歴、複数用途、連携、設定支援、優先配布はPro・契約者向け候補で、このテンプレでは未提供です。結果を見てから必要な拡張を選べます。
 
 ## 振り返りを次の行動へつなげる（無料で1回）
 
@@ -72,7 +73,7 @@ https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?tem
 - 上位候補: 複数用途の履歴、優先度、継続運用、Agent Memories連携
 - 結果を共有: https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?template=reflection_to_next_action.md
 
-## Try in 30 seconds
+## Try with one draft
 
 If you keep re-explaining your writing style to AI, try this before your next draft.
 
@@ -96,13 +97,15 @@ Favorite structure:
 Today's topic:
 ```
 
-Check only three things after the draft:
+After reading the draft, save one style instruction in your own notes. Paste the four-field memo and that instruction into your next request manually. This is not automatic or permanent AI memory.
 
-- Did it avoid words you normally would not use?
-- Did it reduce one correction?
-- Did it reveal one note worth keeping for next time?
+One draft does not establish fewer edits. A paired comparison is optional: keep the same AI, topic, request and length, change only the style memo, and use separate new chats. Count each sentence corrected for tone, wording or structure once. Check facts and safety separately.
 
-If yes, that is the smallest version of Agent Memories: a reusable correction note before the full product route.
+Keep missing or invalid counts as unmeasured, not zero. If conditions differ or are unknown, do not compare. Only matched, measured pairs can be labeled fewer, same or more edits; one pair is not a general effectiveness claim.
+
+Use public-safe examples, not private conversations, customer data or credentials. Check your AI service's input policy. Viewing and copying this template needs no GitHub account; submitting an issue does.
+
+Free is one manual use case. Continuous history, multiple use cases, integrations, setup support and priority access are Pro/subscriber candidates, not supplied by this template.
 
 GitHub is the proof/trial route. Gumroad is only for people who already want a downloadable file kit.
 
