@@ -12,7 +12,7 @@ AIに投稿下書きを作らせるたびに、同じ口調、NG表現、構成�
 
 - 無料テンプレ: [Creator Style Memory Starter](./FREE_CREATOR_STYLE_MEMORY_STARTER.md)
 - 短い使い方: [Creator Style Memory Quickstart](./CREATOR_STYLE_MEMORY_QUICKSTART.md)
-- 1回の修正を次へ渡す: [One-Correction Trial](./ONE_CORRECTION_TRIAL.md)
+- 新しい会話へ修正1つを持ち越す完成例・コピー欄: [One-Correction Trial](./ONE_CORRECTION_TRIAL.md)
 - 前後を1回だけ比べる: [Creator Style Trial Measurement Card](./CREATOR_STYLE_TRIAL_MEASUREMENT_CARD.md)
 - 試した結果を1枚に残す: [Creator Style Memory Trial Receipt](./CREATOR_STYLE_MEMORY_TRIAL_RECEIPT.md)
 - 入力と出力の公開例: [Creator Style Before / After Sample](./CREATOR_STYLE_MEMORY_BEFORE_AFTER_SAMPLE.md)
@@ -44,7 +44,7 @@ Xやnoteで「AIに毎回同じ投稿スタイルを説明している」と感�
 今回のテーマ:
 ```
 
-下書きを読んだら、次回にも残す文体の指示を1つ、自分のメモへ保存します。4行とその指示を次の依頼時に手動で貼り直してください。自動保存・永続記憶ではありません。
+下書きを読んだら、次回にも残す文体の指示を1つ、自分のメモへ保存します。4行とその指示を次の依頼時に手動で貼り直してください。自動保存・永続記憶ではありません。 次の会話へそのまま渡せる形が欲しい人は、[修正1つを持ち越す完成例](./ONE_CORRECTION_TRIAL.md#まず貼れる完成例)をコピーできます。
 
 ```text
 用途:
