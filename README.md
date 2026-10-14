@@ -14,8 +14,8 @@ AIに投稿下書きを作らせるたびに、同じ口調、NG表現、構成�
 - 短い使い方: [Creator Style Memory Quickstart](./CREATOR_STYLE_MEMORY_QUICKSTART.md)
 - 新しい会話へ修正1つを持ち越す完成例・コピー欄: [One-Correction Trial](./ONE_CORRECTION_TRIAL.md)
 - まず1本を記録する・比較は任意: [Creator Style Trial Measurement Card](./CREATOR_STYLE_TRIAL_MEASUREMENT_CARD.md)
-- 試した結果を1枚に残す: [Creator Style Memory Trial Receipt](./CREATOR_STYLE_MEMORY_TRIAL_RECEIPT.md)
-- 入力と出力の公開例: [Creator Style Before / After Sample](./CREATOR_STYLE_MEMORY_BEFORE_AFTER_SAMPLE.md)
+- 試した事実と次回の指示を残す（比較は任意）: [Creator Style Memory Trial Receipt](./CREATOR_STYLE_MEMORY_TRIAL_RECEIPT.md)
+- 説明用の入力・文章・修正メモ（改善実測ではありません）: [Creator Style Before / After Sample](./CREATOR_STYLE_MEMORY_BEFORE_AFTER_SAMPLE.md)
 - X/note向け発信のたたき台: [Creator Style Try-Now Post Set](./CREATOR_STYLE_MEMORY_TRY_NOW_POST_SET.md)
 - note向け無料試用記事: [Creator Style Memory Note Free Trial Article](./CREATOR_STYLE_MEMORY_NOTE_FREE_TRIAL_ARTICLE.md)
 - 使いどころ: X投稿、note導入文、ブログ構成、商品紹介文、AIキャラクター口調メモ
