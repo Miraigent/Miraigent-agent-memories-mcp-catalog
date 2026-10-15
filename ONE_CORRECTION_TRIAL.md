@@ -84,6 +84,6 @@
 
 閲覧・コピーはGitHubアカウント不要です。結果のIssue投稿にはアカウントが必要で、投稿は任意です。会話本文や実際の投稿文を公開する必要はありません。手元の記録だけでも試用できます。
 
-[既存の試用結果フォーム](https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?template=creator_style_trial_report.md)には用途、未測定を含む結果、公開してよい次回の指示を送れます。貼り直しについては、フォームの「次の依頼へ手動で貼り直しましたか？」で「はい／いいえ／まだ試していない」を選んでください。
+[既存の試用結果フォーム](https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?template=creator_style_trial_report.md)では、保存・貼り直し・選んだ1点の確認だけでも共有できます。1本を読んだか、自分で保存したか、その指示を使った出力で1点を満たしたかを、分かる範囲で残してください。次の出力をまだ読んでいなければ「未確認」です。貼り直しは「はい／いいえ／まだ試していない」で残せます。修正削減の比較や、知った場所の回答は任意で、空欄を0件や失敗とは扱いません。会話本文は不要です。
 
 詳しい文体メモは[無料テンプレ](./FREE_CREATOR_STYLE_MEMORY_STARTER.md)、最初の1本は[短い使い方](./CREATOR_STYLE_MEMORY_QUICKSTART.md)をご覧ください。
