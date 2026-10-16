@@ -10,6 +10,8 @@ Agent Memoriesで使う予定のMCP候補を整理する公開カタログです
 
 AIに投稿下書きを作らせるたびに、同じ口調、NG表現、構成を説明している人向けに、まず1回だけ使える無料テンプレを置いています。
 
+「その口調、昨日も直した」と感じたら、[修正1つ入りの完成例をテキストで開く](https://raw.githubusercontent.com/Miraigent/Miraigent-agent-memories-mcp-catalog/main/examples/creator-style-one-correction.txt)。テーマを変えて全文をAIに貼り、下書きを1本読んでみてください。記入済みの架空例で、無料・GitHubアカウント不要です。自動保存・永続記憶の機能ではありません。
+
 - 無料テンプレ: [Creator Style Memory Starter](./FREE_CREATOR_STYLE_MEMORY_STARTER.md)
 - 短い使い方: [Creator Style Memory Quickstart](./CREATOR_STYLE_MEMORY_QUICKSTART.md)
 - 新しい会話へ修正1つを持ち越す完成例・コピー欄: [One-Correction Trial](./ONE_CORRECTION_TRIAL.md)
@@ -238,6 +240,12 @@ Agent Memories本体や契約者向けでは、複数用途の継続記憶、反
 3. 反応が強い候補から無料MCPまたはalpha版を作る
 4. Agent Memories本体で使える候補へ育てる
 5. 企業向けの業務整理や導入相談はMiraigentへつなぐ
+
+## 法人で検討する方へ
+
+この無料資料で確認できるのは、公開してよい仮例を使った手動の文体指示と、下書き1本の試用手順です。社内データの保護、権限管理、業務システム連携、導入後の効果を実証する資料ではありません。
+
+業務利用の検討には、[Miraigentの公開リソース](https://miraigent.com/resources?utm_source=github&utm_medium=readme&utm_campaign=agent-memories-mcp-catalog)で提供範囲を確認し、必要に応じて[無料診断](https://miraigent.com/diagnosis?utm_source=github&utm_medium=readme&utm_campaign=agent-memories-mcp-catalog)で対象業務を整理してください。社内情報や顧客情報は公開Issueへ記載しないでください。
 
 ## 関連リンク
 

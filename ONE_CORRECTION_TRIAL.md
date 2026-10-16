@@ -8,6 +8,8 @@
 
 **以下は説明用に作った架空例です。実AIの出力・利用者の改善実績ではありません。**
 
+枠の中を選びにくい場合は、[同じ完成例のテキスト版](https://raw.githubusercontent.com/Miraigent/Miraigent-agent-memories-mcp-catalog/main/examples/creator-style-one-correction.txt)を開いて全文をコピーできます。手元へ保存した場合も、次の依頼への貼り直しは手動です。
+
 ```text
 以下の文体メモと前回の修正指示を使って、投稿の下書きを1本作ってください。
 今回は下書きだけを作り、公開や送信はしないでください。
