@@ -14,6 +14,8 @@ AIに投稿下書きを作らせるたびに、同じ口調、NG表現、構成�
 
 「もっと自然に」と伝えるだけでは直し方が曖昧なら、[次回に貼れる修正の言い換え3例](./ONE_CORRECTION_TRIAL.md#one-line-corrections)から1つ選べます。口調・書き出し・1文で頼む行動の数のうち、今日直したい1点を保存してください。
 
+直した内容が会話に埋もれてしまうときは、[会話の最後に貼る保存用カードの依頼](./ONE_CORRECTION_TRIAL.md#save-one-correction)を使えます。自分が明示した希望だけをカードにまとめ、内容を確認して手元に保存します。自動記憶ではなく、次回への貼り直しは手動です。
+
 - 無料テンプレ: [Creator Style Memory Starter](./FREE_CREATOR_STYLE_MEMORY_STARTER.md)
 - 短い使い方: [Creator Style Memory Quickstart](./CREATOR_STYLE_MEMORY_QUICKSTART.md)
 - 新しい会話へ修正1つを持ち越す完成例・コピー欄: [One-Correction Trial](./ONE_CORRECTION_TRIAL.md)
@@ -248,6 +250,8 @@ Agent Memories本体や契約者向けでは、複数用途の継続記憶、反
 この無料資料で確認できるのは、公開してよい仮例を使った手動の文体指示と、下書き1本の試用手順です。社内データの保護、権限管理、業務システム連携、導入後の効果を実証する資料ではありません。
 
 再現を検討するときは、公開してよい仮のテーマ・選んだ修正指示・下書きの確認結果を組にして記録してください。確認結果は「満たした／要修正／未確認」で残せます。これは手順を確認するための記録で、導入効果やセキュリティ審査の証明ではありません。
+
+AIが作った保存用カードも、担当者が元の明示指示と照合してから採用してください。採用した指示と確認結果は分けて記録します。カードの生成は、業務上の承認や実行を代行するものではありません。
 
 業務利用の検討には、[Miraigentの公開リソース](https://miraigent.com/resources?utm_source=github&utm_medium=readme&utm_campaign=agent-memories-mcp-catalog)で提供範囲を確認し、必要に応じて[無料診断](https://miraigent.com/diagnosis?utm_source=github&utm_medium=readme&utm_campaign=agent-memories-mcp-catalog)で対象業務を整理してください。社内情報や顧客情報は公開Issueへ記載しないでください。
 
