@@ -16,6 +16,8 @@ AIに投稿下書きを作らせるたびに、同じ口調、NG表現、構成�
 
 直した内容をまた探す前に、[会話の最後へ貼る依頼文をテキストで開く](https://raw.githubusercontent.com/Miraigent/Miraigent-agent-memories-mcp-catalog/main/examples/save-one-correction.txt)。全文をコピーし、公開してよい仮のテーマで試した会話へ貼れます。[使い方と確認点](./ONE_CORRECTION_TRIAL.md#save-one-correction)に沿って出力を確認し、自分で保存してください。自動記憶ではなく、次回への貼り直しは手動です。
 
+保存した1行、次の会話でも使えた？ [次の会話へ貼るカードをテキストで開く](https://raw.githubusercontent.com/Miraigent/Miraigent-agent-memories-mcp-catalog/main/examples/reuse-one-correction.txt)。保存した5行を入れ、テーマを更新して手動で貼り直してください。次の下書きを読み、選んだ1点だけ確認します。[使い方と記録欄](./ONE_CORRECTION_TRIAL.md#reuse-one-correction)では、貼り直した事実と、出力を読んで確認した結果を分けて残せます。無料・GitHubアカウント不要です。
+
 - 無料テンプレ: [Creator Style Memory Starter](./FREE_CREATOR_STYLE_MEMORY_STARTER.md)
 - 短い使い方: [Creator Style Memory Quickstart](./CREATOR_STYLE_MEMORY_QUICKSTART.md)
 - 新しい会話へ修正1つを持ち越す完成例・コピー欄: [One-Correction Trial](./ONE_CORRECTION_TRIAL.md)
@@ -251,7 +253,7 @@ Agent Memories本体や契約者向けでは、複数用途の継続記憶、反
 
 再現を検討するときは、公開してよい仮のテーマ・選んだ修正指示・下書きの確認結果を組にして記録してください。確認結果は「満たした／要修正／未確認」で残せます。これは手順を確認するための記録で、導入効果やセキュリティ審査の証明ではありません。
 
-AIが作った保存用カードも、担当者が元の明示指示と照合してから採用してください。採用した指示と確認結果は分けて記録します。カードの生成は、業務上の承認や実行を代行するものではありません。配布テキストを使って確認した場合は、参照したファイルの版も一緒に残してください。
+AIが作った保存用カードも、担当者が元の明示指示と照合してから採用してください。採用した指示と確認結果は分けて記録します。カードの生成は、業務上の承認や実行を代行するものではありません。配布テキストを使って確認した場合は、参照したファイルの版も一緒に残してください。 次の依頼へ指示を貼り直した事実と、その後の出力で指示を満たしたかは別々に記録してください。出力が未読なら「未確認」のまま残します。貼り直しだけで継続記憶や業務上の効果を実証したとは扱いません。
 
 業務利用の検討には、[Miraigentの公開リソース](https://miraigent.com/resources?utm_source=github&utm_medium=readme&utm_campaign=agent-memories-mcp-catalog)で提供範囲を確認し、必要に応じて[無料診断](https://miraigent.com/diagnosis?utm_source=github&utm_medium=readme&utm_campaign=agent-memories-mcp-catalog)で対象業務を整理してください。社内情報や顧客情報は公開Issueへ記載しないでください。
 
