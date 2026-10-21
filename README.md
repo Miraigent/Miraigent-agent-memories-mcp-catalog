@@ -1,22 +1,23 @@
 # Agent Memories MCP候補カタログ
 
-Agent Memoriesで使う予定のMCP候補を整理する公開カタログです。
-
-対象は、Agent Memories利用者、AIキャラクター運用者、個人クリエイター、個人事業主、副業でAIを活用したい人です。
-
-このrepoは、MCP本体の実装repoではありません。まず「どんなMCPが欲しいか」「どの候補を無料で試したいか」「どの機能をAgent Memories本体と連携したいか」を公開で整理し、Issueで要望を集めるための場所です。
+Agent Memoriesの無料文体メモと、今後のMCP候補を公開するカタログです。MCP本体の実装リポジトリではありません。
 
 ## 無料で1回試す
 
-AIに投稿下書きを作らせるたびに、同じ口調、NG表現、構成を説明している人向けに、まず1回だけ使える無料テンプレを置いています。
+「その口調、昨日も直した」と感じたら、まず[修正1つ入りの完成例をテキストで開く](https://raw.githubusercontent.com/Miraigent/Miraigent-agent-memories-mcp-catalog/main/examples/creator-style-one-correction.txt)。記入済みの架空例なので、空欄を埋める前に試せます。無料・GitHubアカウント不要です。
 
-「その口調、昨日も直した」と感じたら、[修正1つ入りの完成例をテキストで開く](https://raw.githubusercontent.com/Miraigent/Miraigent-agent-memories-mcp-catalog/main/examples/creator-style-one-correction.txt)。テーマを変えて全文をAIに貼り、下書きを1本読んでみてください。記入済みの架空例で、無料・GitHubアカウント不要です。自動保存・永続記憶の機能ではありません。
+1. 開いたテキストを全文コピーします。
+2. 「今回のテーマ」を公開してよい仮のテーマへ変え、使っているAIへ貼ります。
+3. 下書き1本を読み、冒頭に読者が繰り返している作業が1つ書かれているかを確認します。
 
-「もっと自然に」と伝えるだけでは直し方が曖昧なら、[次回に貼れる修正の言い換え3例](./ONE_CORRECTION_TRIAL.md#one-line-corrections)から1つ選べます。口調・書き出し・1文で頼む行動の数のうち、今日直したい1点を保存してください。
+確認した結果は「満たした／要修正／未確認」のいずれでも構いません。これは手動で指示を渡すお試しで、自動保存・永続記憶の機能ではありません。実際の個人情報・顧客情報・秘密値・非公開の会話や設定は入力しないでください。
 
-直した内容をまた探す前に、[会話の最後へ貼る依頼文をテキストで開く](https://raw.githubusercontent.com/Miraigent/Miraigent-agent-memories-mcp-catalog/main/examples/save-one-correction.txt)。全文をコピーし、公開してよい仮のテーマで試した会話へ貼れます。[使い方と確認点](./ONE_CORRECTION_TRIAL.md#save-one-correction)に沿って出力を確認し、自分で保存してください。自動記憶ではなく、次回への貼り直しは手動です。
+<details>
+<summary>試した後の保存・貼り直しと、詳しい資料</summary>
 
-保存した1行、次の会話でも使えた？ [次の会話へ貼るカードをテキストで開く](https://raw.githubusercontent.com/Miraigent/Miraigent-agent-memories-mcp-catalog/main/examples/reuse-one-correction.txt)。保存した5行を入れ、テーマを更新して手動で貼り直してください。次の下書きを読み、選んだ1点だけ確認します。[使い方と記録欄](./ONE_CORRECTION_TRIAL.md#reuse-one-correction)では、貼り直した事実と、出力を読んで確認した結果を分けて残せます。無料・GitHubアカウント不要です。
+- 直したい1点を言葉にしたいときは、[修正の言い換え3例](./ONE_CORRECTION_TRIAL.md#one-line-corrections)から1つ選べます。
+- 会話を閉じる前は、[保存用の依頼文を開く](https://raw.githubusercontent.com/Miraigent/Miraigent-agent-memories-mcp-catalog/main/examples/save-one-correction.txt)→[手順に沿って確認し、自分で保存する](./ONE_CORRECTION_TRIAL.md#save-one-correction)。
+- 保存したメモがある人は、[次の会話へ貼るカードを開く](https://raw.githubusercontent.com/Miraigent/Miraigent-agent-memories-mcp-catalog/main/examples/reuse-one-correction.txt)→[保存した5行を入れ、テーマを更新して手動で貼り直す](./ONE_CORRECTION_TRIAL.md#reuse-one-correction)。貼った事実と、出力を読んだ確認結果は分けて残します。
 
 - 無料テンプレ: [Creator Style Memory Starter](./FREE_CREATOR_STYLE_MEMORY_STARTER.md)
 - 短い使い方: [Creator Style Memory Quickstart](./CREATOR_STYLE_MEMORY_QUICKSTART.md)
@@ -29,6 +30,16 @@ AIに投稿下書きを作らせるたびに、同じ口調、NG表現、構成�
 - 使いどころ: X投稿、note導入文、ブログ構成、商品紹介文、AIキャラクター口調メモ
 - 次の小さな行動: テンプレを1枚埋めて、次のAI下書きの前に貼る
 - 欲しい拡張を送る: https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?template=use_case.md
+
+### このカタログについて
+
+Agent Memoriesで使う予定のMCP候補を整理する公開カタログです。
+
+対象は、Agent Memories利用者、AIキャラクター運用者、個人クリエイター、個人事業主、副業でAIを活用したい人です。
+
+このrepoは、MCP本体の実装repoではありません。まず「どんなMCPが欲しいか」「どの候補を無料で試したいか」「どの機能をAgent Memories本体と連携したいか」を公開で整理し、Issueで要望を集めるための場所です。
+
+</details>
 
 ## まず1本で試すコピペブロック
 
@@ -254,6 +265,8 @@ Agent Memories本体や契約者向けでは、複数用途の継続記憶、反
 再現を検討するときは、公開してよい仮のテーマ・選んだ修正指示・下書きの確認結果を組にして記録してください。確認結果は「満たした／要修正／未確認」で残せます。これは手順を確認するための記録で、導入効果やセキュリティ審査の証明ではありません。
 
 AIが作った保存用カードも、担当者が元の明示指示と照合してから採用してください。採用した指示と確認結果は分けて記録します。カードの生成は、業務上の承認や実行を代行するものではありません。配布テキストを使って確認した場合は、参照したファイルの版も一緒に残してください。 次の依頼へ指示を貼り直した事実と、その後の出力で指示を満たしたかは別々に記録してください。出力が未読なら「未確認」のまま残します。貼り直しだけで継続記憶や業務上の効果を実証したとは扱いません。
+
+法人での試用条件として、実施日・利用したAIサービス名・表示されたモデル名も手元に記録できます。モデル名が表示されない場合は「不明」とし、推測で補わないでください。条件が違う試用の結果を、このメモだけの効果とは扱いません。
 
 業務利用の検討には、[Miraigentの公開リソース](https://miraigent.com/resources?utm_source=github&utm_medium=readme&utm_campaign=agent-memories-mcp-catalog)で提供範囲を確認し、必要に応じて[無料診断](https://miraigent.com/diagnosis?utm_source=github&utm_medium=readme&utm_campaign=agent-memories-mcp-catalog)で対象業務を整理してください。社内情報や顧客情報は公開Issueへ記載しないでください。
 
