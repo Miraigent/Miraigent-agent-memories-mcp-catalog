@@ -23,6 +23,14 @@ const forbiddenPaths = [
   'logs',
   'screenshots',
   'analysis',
+  'implementation-handoff',
+  'CREATOR_STYLE_MEMORY_TRY_NOW_POST_SET.md',
+  'THREE_TIER_PRODUCT_DESIGN.md',
+  'RESEARCH_BASED_ACTION_MCP_CANDIDATES.md',
+  'REPO_ROUTING.md',
+  'SOURCE_OF_TRUTH.md',
+  'DISTRIBUTION_FLOW.md',
+  'public-lab/agent-memories/ACTIVITY_LOG.md',
 ];
 
 for (const relativePath of forbiddenPaths) {
@@ -50,6 +58,7 @@ function walk(dir) {
 walk(root);
 
 const sensitivePatterns = [
+  { name: 'internal editorial draft', pattern: /GitHub description案|現在のdescription:|より短くするなら:/i },
   { name: 'Discord channel/message URL', pattern: /discord\.com\/channels\/\d+\/\d+\/\d+/i },
   { name: 'OpenClaw secret path', pattern: /\.openclaw\/secrets/i },
   { name: 'OpenClaw workspace path', pattern: /\.openclaw\/workspace-[a-z0-9_-]+/i },

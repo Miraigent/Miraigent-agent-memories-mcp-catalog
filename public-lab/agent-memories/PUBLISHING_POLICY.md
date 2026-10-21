@@ -27,6 +27,8 @@ These can be transformed into public material only after removing private contex
 
 ## Not Allowed
 
+- internal editorial drafts, staff handoffs, acquisition targets, or revenue plans
+
 - secrets, tokens, cookies, passwords, private keys, or session data
 - private Discord channel IDs or message IDs
 - private user identifiers

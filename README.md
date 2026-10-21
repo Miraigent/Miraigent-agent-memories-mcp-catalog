@@ -25,7 +25,6 @@ Agent Memoriesの無料文体メモと、今後のMCP候補を公開するカタ
 - まず1本を記録する・比較は任意: [Creator Style Trial Measurement Card](./CREATOR_STYLE_TRIAL_MEASUREMENT_CARD.md)
 - 試した事実と次回の指示を残す（比較は任意）: [Creator Style Memory Trial Receipt](./CREATOR_STYLE_MEMORY_TRIAL_RECEIPT.md)
 - 説明用の入力・文章・修正メモ（改善実測ではありません）: [Creator Style Before / After Sample](./CREATOR_STYLE_MEMORY_BEFORE_AFTER_SAMPLE.md)
-- X/note向け発信のたたき台: [Creator Style Try-Now Post Set](./CREATOR_STYLE_MEMORY_TRY_NOW_POST_SET.md)
 - note向け無料試用記事: [Creator Style Memory Note Free Trial Article](./CREATOR_STYLE_MEMORY_NOTE_FREE_TRIAL_ARTICLE.md)
 - 使いどころ: X投稿、note導入文、ブログ構成、商品紹介文、AIキャラクター口調メモ
 - 次の小さな行動: テンプレを1枚埋めて、次のAI下書きの前に貼る
@@ -35,9 +34,9 @@ Agent Memoriesの無料文体メモと、今後のMCP候補を公開するカタ
 
 Agent Memoriesで使う予定のMCP候補を整理する公開カタログです。
 
-対象は、Agent Memories利用者、AIキャラクター運用者、個人クリエイター、個人事業主、副業でAIを活用したい人です。
+対象はAgent Memories利用者、AIキャラクター運用者、個人クリエイター、個人事業主、副業でAIを活用したい人です。
 
-このrepoは、MCP本体の実装repoではありません。まず「どんなMCPが欲しいか」「どの候補を無料で試したいか」「どの機能をAgent Memories本体と連携したいか」を公開で整理し、Issueで要望を集めるための場所です。
+このrepoはMCP本体の実装repoではありません。まず「どんなMCPが欲しいか」「どの候補を無料で試したいか」「どの機能をAgent Memories本体と連携したいか」を公開で整理し、Issueで要望を集めるための場所です。
 
 </details>
 
@@ -142,16 +141,6 @@ GitHub is the proof/trial route. Gumroad is only for people who already want a d
 - まず無料で試すもの: README、チェックリスト、CSV、サンプルログ
 - まだ入れていないもの: 非公開の記憶エンジン、顧客データ、認証情報、自動永続記憶
 
-## 次に作る無料MCP: X Japanese Business Auto Post
-
-「X投稿を毎日考えるのが重い」「1テーマから数日分の投稿に広げたい」人向けに、最初の集客用無料MCP候補をX投稿自動化に寄せています。
-
-- 候補仕様: [X Japanese Business Auto Post MCP](./implementation-handoff/x-japanese-business-auto-post-mcp.md)
-- 無料で見せる成果: 1テーマから7日分のX投稿案、投稿前チェック、CSV/export、BYO鍵でのX投稿フロー
-- Agent Memoriesで伸ばす部分: 口調、NG表現、CTA、投稿結果、改善メモを次回に活かす記憶連携
-- 安全境界: 実Credentialはrepoに置かない、ログイン/CAPTCHA/2FA回避はしない、noteはdraft/exportまで
-- 欲しい使い方を送る: https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?template=x_auto_post_use_case.md
-
 ## 先に選ぶもの
 
 次のどれかに当てはまる場合は、Issueで欲しい候補や利用例を送ってください。
@@ -169,16 +158,14 @@ Issueを送る:
 
 ## いま見てほしい候補
 
-- 需要リサーチベースの攻めた候補: [Research-Based Action MCP Candidates](./RESEARCH_BASED_ACTION_MCP_CANDIDATES.md)
-- 最初の実装ハンドオフ: [X Japanese Business Auto Post MCP](./implementation-handoff/x-japanese-business-auto-post-mcp.md)
+以下は検討中の候補であり、このカタログで利用できる実装機能ではありません。
+
 - Creator Growth Memory Kit: 口調、投稿テーマ、NG表現、30日分の発信案、改善メモをまとめて作る
 - Agent Memory Launch Pack: 1つの企画から、note、Xスレッド、ブログ構成、FAQ、プレス下書きまで作る
 - Auto Post & Improve: 投稿して終わりにせず、反応メモと次回改善へつなぐ
 - Reflection to Action: 今日の会話や作業から、次に残す記憶候補と具体アクションを作る
 
 まずは「どれが一番ほしいか」だけでもIssueに残せるようにしています。
-
-無料MCPは、単なる体験版ではなく、使った人が「これを継続して記憶に残したい」と感じる入口にします。
 
 ## まず解決したい痛み
 
@@ -188,26 +175,11 @@ Issueを送る:
 - noteやSNSの下書きを作っても、改善点が残らない
 - 自分のAIが育っている感覚を持ちにくい
 
-## 無料で試せる候補の考え方
-
-Gasおじ型の「無料で今すぐ試せる」「実物が見える」「Free/Pro差分が分かる」構造を、Agent Memories向けにも取り入れます。
-
-Free候補は、1用途だけを公開で試せる形にします。
-
-- SNS下書きの好みを1回分だけ整理する
-- note構成の好みを1記事分だけ整理する
-- 今日の振り返りから記憶候補を作る
-- 創作設定を1作品分だけ整理する
-
-Agent Memories本体や契約者向けでは、複数用途の継続記憶、反応ログ、優先配布、連携機能へ広げます。
-
 ## 目的
 
 - Agent Memories向けMCP候補を見える化する
 - 無料配布候補と有料/契約者向け候補を分ける
 - Issueで欲しいMCP、利用例、不具合、優先順位を集める
-- 実装前にターゲットずれを防ぐ
-- Miraigent / Agent Memoriesへの導線を整理する
 
 ## 想定ユーザー
 
@@ -220,15 +192,10 @@ Agent Memories本体や契約者向けでは、複数用途の継続記憶、反
 
 ## 最初に見るもの
 
-- 正本と二重管理防止: [SOURCE_OF_TRUTH.md](./SOURCE_OF_TRUTH.md)
-- repo更新先の整理: [REPO_ROUTING.md](./REPO_ROUTING.md)
-- 公開導線の整理: [DISTRIBUTION_FLOW.md](./DISTRIBUTION_FLOW.md)
 - 候補一覧: [CATALOG.md](./CATALOG.md)
-- 需要リサーチベースの攻めたMCP候補: [RESEARCH_BASED_ACTION_MCP_CANDIDATES.md](./RESEARCH_BASED_ACTION_MCP_CANDIDATES.md)
 - 無料/有料の境界と機能比較: [FREE_PAID_BOUNDARY.md](./FREE_PAID_BOUNDARY.md)
-- 3段階商品設計: [THREE_TIER_PRODUCT_DESIGN.md](./THREE_TIER_PRODUCT_DESIGN.md)
 - 公開ロードマップ: [ROADMAP.md](./ROADMAP.md)
-- 公開活動ログ / MCP設計メモ: [public-lab/agent-memories](./public-lab/agent-memories/README.md)
+- 公開コンセプト: [public-lab/agent-memories](./public-lab/agent-memories/README.md)
 - Issue投稿ルール: [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## 公開するもの
@@ -250,25 +217,17 @@ Agent Memories本体や契約者向けでは、複数用途の継続記憶、反
 - token、cookie、API key、private key
 - 有料商品の完全版
 
-## 動線
-
-1. このカタログでMCP候補を見る
-2. 欲しい候補や使い方をIssueに投稿する
-3. 反応が強い候補から無料MCPまたはalpha版を作る
-4. Agent Memories本体で使える候補へ育てる
-5. 企業向けの業務整理や導入相談はMiraigentへつなぐ
-
 ## 法人で検討する方へ
 
 この無料資料で確認できるのは、公開してよい仮例を使った手動の文体指示と、下書き1本の試用手順です。社内データの保護、権限管理、業務システム連携、導入後の効果を実証する資料ではありません。
 
 再現を検討するときは、公開してよい仮のテーマ・選んだ修正指示・下書きの確認結果を組にして記録してください。確認結果は「満たした／要修正／未確認」で残せます。これは手順を確認するための記録で、導入効果やセキュリティ審査の証明ではありません。
 
-AIが作った保存用カードも、担当者が元の明示指示と照合してから採用してください。採用した指示と確認結果は分けて記録します。カードの生成は、業務上の承認や実行を代行するものではありません。配布テキストを使って確認した場合は、参照したファイルの版も一緒に残してください。 次の依頼へ指示を貼り直した事実と、その後の出力で指示を満たしたかは別々に記録してください。出力が未読なら「未確認」のまま残します。貼り直しだけで継続記憶や業務上の効果を実証したとは扱いません。
+AIが作った保存用カードも、担当者が元の明示指示と照合してから採用してください。採用した指示と確認結果は分けて記録します。カードの生成は業務上の承認や実行を代行するものではありません。配布テキストを使って確認した場合は、参照したファイルの版も一緒に残してください。 次の依頼へ指示を貼り直した事実と、その後の出力で指示を満たしたかは別々に記録してください。出力が未読なら「未確認」のまま残します。貼り直しだけで継続記憶や業務上の効果を実証したとは扱いません。
 
 法人での試用条件として、実施日・利用したAIサービス名・表示されたモデル名も手元に記録できます。モデル名が表示されない場合は「不明」とし、推測で補わないでください。条件が違う試用の結果を、このメモだけの効果とは扱いません。
 
-業務利用の検討には、[Miraigentの公開リソース](https://miraigent.com/resources?utm_source=github&utm_medium=readme&utm_campaign=agent-memories-mcp-catalog)で提供範囲を確認し、必要に応じて[無料診断](https://miraigent.com/diagnosis?utm_source=github&utm_medium=readme&utm_campaign=agent-memories-mcp-catalog)で対象業務を整理してください。社内情報や顧客情報は公開Issueへ記載しないでください。
+業務利用の検討には[Miraigentの公開リソース](https://miraigent.com/resources?utm_source=github&utm_medium=readme&utm_campaign=agent-memories-mcp-catalog)で提供範囲を確認し、必要に応じて[無料診断](https://miraigent.com/diagnosis?utm_source=github&utm_medium=readme&utm_campaign=agent-memories-mcp-catalog)で対象業務を整理してください。社内情報や顧客情報は公開Issueへ記載しないでください。
 
 ## 関連リンク
 
@@ -276,13 +235,3 @@ AIが作った保存用カードも、担当者が元の明示指示と照合し
 - Miraigent公開リソース: https://miraigent.com/resources?utm_source=github&utm_medium=readme&utm_campaign=agent-memories-mcp-catalog
 - Miraigent無料診断: https://miraigent.com/diagnosis?utm_source=github&utm_medium=readme&utm_campaign=agent-memories-mcp-catalog
 - Miraigent無料MCP: https://github.com/Miraigent/miraigent-free-ai-ops-mcp?utm_source=github&utm_medium=readme&utm_campaign=agent-memories-mcp-catalog
-
-## GitHub description案
-
-現在のdescription:
-
-Agent Memories利用者、AIキャラクター運用者、個人/クリエイター、個人事業主、副業便利ツール
-
-より短くするなら:
-
-Agent Memories向けMCP候補カタログ。AIキャラクター、創作、SNS、学習、生活補助、振り返り、運用記憶の候補を公開します。

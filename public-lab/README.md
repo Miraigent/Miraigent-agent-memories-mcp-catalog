@@ -2,11 +2,11 @@
 
 This directory keeps public-ready project notes that can be shown on GitHub.
 
-Public Lab materials are for GitHub visibility, roadmap sharing, open-source preparation, and later extraction into dedicated implementation repositories.
+These are concept notes, not released software.
 
 ## Areas
 
-- [Agent Memories](./agent-memories/README.md): memory design, MCP roadmap, public activity log, and open-source preparation.
+- [Agent Memories](./agent-memories/README.md): memory concepts and MCP candidates.
 
 ## Operating Rules
 
@@ -15,17 +15,3 @@ Public Lab materials are for GitHub visibility, roadmap sharing, open-source pre
 - Do not copy internal raw logs directly. Rewrite them as public concepts, examples, roadmaps, or release notes.
 - Keep claims conservative. Mark ideas as concepts, drafts, or planned work unless they are already released.
 - Link public artifacts when they exist: GitHub, npm, blog, note, Qiita, Zenn, or public documentation.
-
-## Why This Exists
-
-Miraigent needs a visible trail of work, not only polished landing pages.
-
-Public Lab makes the ongoing work easier to follow:
-
-- what is being built
-- what has shipped
-- what is planned next
-- how MCP tools and AI operations templates connect to Miraigent
-- how Agent Memories evolves into reusable memory infrastructure
-
-When an area becomes mature enough, move implementation into a dedicated public repository and keep this directory as the lightweight index.

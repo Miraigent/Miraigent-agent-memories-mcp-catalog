@@ -27,7 +27,6 @@ Miraigent uses this work in two ways:
 
 - [Roadmap](./ROADMAP.md)
 - [MCP architecture](./MCP_ARCHITECTURE.md)
-- [Public activity log](./ACTIVITY_LOG.md)
 - [Publishing policy](./PUBLISHING_POLICY.md)
 
 ## Related Miraigent Assets
@@ -39,16 +38,6 @@ Miraigent uses this work in two ways:
 - Free AI operations MCP on npm: https://www.npmjs.com/package/@miraigent/free-ai-ops-mcp
 - AI operations templates on npm: https://www.npmjs.com/package/@miraigent/ai-ops-templates
 
-## Repository Plan
-
-This directory is a public-ready staging area inside the Miraigent Agent Memories MCP catalog repository.
-
-As the work matures, the clean public materials can be moved into separate repositories:
-
-- `agent-memories`: concept, roadmap, examples, public documentation
-- `agent-memories-mcp`: Memory MCP, Flow MCP, and module implementations
-- `agent-memories-examples`: sample memory profiles, safe demo data, and integration examples
-
 ## Status
 
-Draft public index. Internal raw notes are not published here. This folder contains rewritten public-facing summaries only.
+Concept notes only. These pages do not provide a released memory service or automatic storage.

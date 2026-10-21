@@ -1,151 +1,18 @@
 # 公開ロードマップ
 
-## Phase 1: 候補カタログ公開
+## 公開済み
 
-目的:
+- [無料の文体メモ](./FREE_CREATOR_STYLE_MEMORY_STARTER.md)と[短い使い方](./CREATOR_STYLE_MEMORY_QUICKSTART.md)。
+- [修正1つを次の会話へ渡すカード](./ONE_CORRECTION_TRIAL.md)。
+- [振り返りを次の行動へ整理するテンプレ](./REFLECTION_TO_NEXT_ACTION_QUICKSTART.md)。
+- MCP候補や利用例を送るためのIssueフォーム。
 
-- Agent Memories用MCP候補を公開で整理する
-- Issueで欲しいMCPを集める
-- 無料/有料/契約者優遇の候補を分ける
+これらのテンプレは手動で使います。自動保存・永続記憶・自動投稿の実装ではありません。
 
-公開物:
+## 検討中
 
-- README
-- CATALOG
-- ROADMAP
-- THREE_TIER_PRODUCT_DESIGN
-- Issue template
+- 発信、創作、振り返り、学習などを支援する[MCP候補](./CATALOG.md)。
+- 用途別テンプレ、継続履歴、検索、連携などの上位候補。
+- 公開してよい架空データを使った利用例。
 
-## Phase 2: 集客用無料フラッグシップの選定
-
-方針:
-
-- 無料MCPは小さすぎる体験版にしない
-- まず人が集まる強い無料ツールを出す
-- 法的NG、規約違反、認証回避、個人情報漏洩は避ける
-- ただし、価値の中心を削りすぎない
-- 無料で成果を出し、継続記憶/長期改善/個別最適化をAgent Memoriesへつなげる
-- 需要リサーチベース候補は [RESEARCH_BASED_ACTION_MCP_CANDIDATES.md](./RESEARCH_BASED_ACTION_MCP_CANDIDATES.md) を正本にする
-
-優先候補:
-
-S-0. X Japanese Business Auto Post MCP
-S-0. note Auto Publishing MCP
-S-0. Tips Article Publishing MCP
-S-0. Multi-SNS Publishing Prep MCP
-S-1. Creator Growth Memory Kit MCP
-S-2. Agent Memory Launch Pack MCP
-S-3. Reflection to Action MCP
-0. Auto Post & Improve Starter MCP
-
-保留/部品扱い:
-
-- Reflection Lite MCP
-- SNS下書き Lite MCP
-- ブログ/note構成 Lite MCP
-
-これらは単体の看板候補にしない。BtoCユーザーが「すごい、使える」と感じる強い成果物の一部として組み込む。
-
-理由:
-
-- 無料配布の目的は、Issue収集だけでなく認知と集客を作ること
-- 使った直後に「便利」と分かる成果物を出す
-- SNS/note/GitHubで紹介されやすい
-- Agent Memories本体へ「この設定や改善を残したい」という動機を作る
-- 初回公開候補として、一般無料では規約/API許可範囲内の投稿補助、または本人確認付きのテキスト投稿実行まで出す
-- 投稿URL、投稿結果、反応メモ、次回改善案はAgent Memoriesユーザー特典にする
-- 画像、動画、複数媒体、定期投稿、長期反応分析は有料/上位拡張に残す
-- 個人/クリエイターが使いやすい
-- 無料配布の価値が分かりやすい
-- Agent Memoriesの記憶価値へつなげやすい
-- 無料版はその場で試し、有料版は記憶として積み上げる境界を作りやすい
-- 見せ方は「投稿体験 -> 記録したくなる -> Agent Memories登録」の順番にする
-- 初回検証はX単体から開始し、成功パターンをnote/ブログへ横展開する
-- 今月の目標は、無料MCP公開と関連発信で10,000 impressions級の注目を狙うこと。小さな補助機能ではなく、SNSで説明した瞬間に使い道が伝わるものを優先する。
-- 最初の実装対象は X Japanese Business Auto Post MCP。実装はConoHa VPSメンバーに依頼する前提で進める。
-
-詳細な境界は [FREE_PAID_BOUNDARY.md](./FREE_PAID_BOUNDARY.md) を参照。
-
-## Phase 2.5: 2026-07-07 アンバサダー募集連動
-
-7/7のアンバサダー募集開始に合わせて、無料MCP公開と事前告知を束ねる。
-
-狙い:
-
-- Xで事前認知を作る
-- noteで背景と使い道を説明する
-- GitHubで候補と実装状況を見せる
-- MCP公開をアンバサダー募集の話題化に接続する
-- Agent Memoriesへ「楽できる自動化」と「記憶で改善する」導線を作る
-
-優先して見せる価値:
-
-- 1テーマから7日分のX投稿ができる
-- note / Tips / 他SNSも準備できる
-- 毎回考える手間を減らせる
-- 投稿結果や改善メモを次に活かせる
-
-7/7までの準備:
-
-- X Japanese Business Auto Post MCP の公開repo/README/demoを整える
-- noteで開発背景と使い方の予告記事を出す
-- Xで数回に分けて予告する
-- 他MCP候補も公開候補として見せる
-- アンバサダー募集開始時に、MCP公開・参加メリット・今後の展開を同時に伝える
-
-## Phase 3: alpha実装repoまたは同repo内prototype
-
-方針:
-
-- カタログrepoではまず候補と要件を整理する
-- 実装が固まった候補は、prototypeとして追加するか、専用repoに分ける
-
-判断基準:
-
-- Issueが集まっている
-- MVPが小さく作れる
-- Agent Memories本体と混ぜても安全
-- 非公開エンジン仕様を出さずに公開できる
-
-## Phase 4: Agent Memoriesへの誘導
-
-動線:
-
-1. GitHubで候補を見る
-2. Issueで要望を書く
-3. 無料MCP/alphaを試す
-4. よく使う設定や判断をAgent Memoriesに残す
-5. 契約者向けの高度な連携へ進む
-
-## Phase 5: Miraigentへの誘導
-
-業務向けに変換できる候補は、Miraigentへつなぐ。
-
-Miraigentへつなぐ条件:
-
-- 公式APIや明確に許可された連携方法がある
-- 規約準拠、承認フロー、履歴管理、安全運用として説明できる
-- 企業が使っても信用・法務・誤投稿リスクを管理しやすい
-
-Miraigentへ直接つなげないもの:
-
-- APIなし/許可不明の自動投稿
-- 利用者本人の判断と責任で使う実験ツール
-- サービス側の仕様変更で壊れやすい投稿実行部分
-- 非公式自動化を売りにするLP/料金表表現
-
-これらは、Agent Memories / OSS無料ツール側で検証とIssue収集に使う。
-表現は「各サービス規約・API許可範囲内で利用」「非公式自動化は販売対象外」に固定する。
-
-例:
-
-- SNS運用の事業導線化
-- 問い合わせ対応
-- CRM整理
-- FAQ整備
-- AI導入前の人間確認ルール
-
-導線:
-
-- Miraigent公開リソース: https://miraigent.com/resources
-- Miraigent無料診断: https://miraigent.com/diagnosis
+検討中の項目は提供中の機能や公開予定日の確約ではありません。欲しい用途は[候補リクエスト](https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?template=mcp_candidate_request.md)で送れます。

@@ -1,6 +1,6 @@
 # Agent Memories Roadmap
 
-This roadmap tracks public-facing Agent Memories work that can later become a dedicated repository or product line.
+This roadmap describes concepts under consideration, not released features or promised dates.
 
 ## Phase 0 - Public Foundation
 
@@ -17,7 +17,6 @@ Public outputs:
 - GitHub index
 - concept page
 - example schemas
-- activity log
 
 ## Phase 1 - Base Memory MCP
 
@@ -84,17 +83,3 @@ Distribution candidates:
 - MCP client setup examples
 - note / Qiita / Zenn tutorials
 - Miraigent resource page
-
-## Measurement
-
-Track signals separately by platform:
-
-- GitHub: stars, issues, forks, README clicks
-- npm: downloads, version adoption, issue references
-- note / X: reactions, saves, comments, profile clicks
-- Miraigent site: resource clicks, free diagnosis clicks
-- business inquiries: requests that mention memory, MCP, or AI operations
-
-## Current Priority
-
-Prepare public materials that make the work easy to understand before moving implementation into a dedicated repository.

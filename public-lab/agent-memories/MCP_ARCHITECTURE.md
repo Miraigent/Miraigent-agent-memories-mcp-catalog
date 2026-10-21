@@ -1,5 +1,7 @@
 # Agent Memories MCP Architecture
 
+Concept only; this document does not describe a released memory service.
+
 Agent Memories separates the memory foundation from use-case modules.
 
 ## Layers
