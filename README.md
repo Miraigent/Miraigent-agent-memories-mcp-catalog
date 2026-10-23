@@ -14,6 +14,8 @@ Agent Memoriesの無料文体メモと、今後のMCP候補を公開するカタ
 
 「要修正」だったときは、[冒頭1文だけの修正を頼むコピー欄](./ONE_CORRECTION_TRIAL.md#retry-one-correction)を使えます。最初の結果と、追加依頼後の確認は分けて残します。
 
+依頼文だけをコピーしたいときは、[4行のテキスト版を開く](https://raw.githubusercontent.com/Miraigent/Miraigent-agent-memories-mcp-catalog/main/examples/retry-one-correction.txt)。使った後は出力を読み、冒頭に繰り返す作業が書かれたか、ほかの文が変わっていないかを確認します。
+
 <details>
 <summary>試した後の保存・貼り直しと、詳しい資料</summary>
 
