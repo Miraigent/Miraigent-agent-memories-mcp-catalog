@@ -1,10 +1,12 @@
-# Agent Memories MCP候補カタログ
+<a id="agent-memories-mcp候補カタログ"></a>
 
-Agent Memoriesの無料文体メモと、今後のMCP候補を公開するカタログです。MCP本体の実装リポジトリではありません。
+# Agent Memories：直した口調を、次の会話へ
+
+AIの下書きに「もっと落ち着いた口調で」と毎回頼んでいませんか。文体と修正1つを自分で保存し、次の依頼へ手動で貼り直す無料メモです。
 
 ## 無料で1回試す
 
-「その口調、昨日も直した」と感じたら、まず[修正1つ入りの完成例をテキストで開く](https://raw.githubusercontent.com/Miraigent/Miraigent-agent-memories-mcp-catalog/main/examples/creator-style-one-correction.txt)。記入済みの架空例なので、空欄を埋める前に試せます。無料・GitHubアカウント不要です。
+[記入済みの無料メモをテキストで開く](https://raw.githubusercontent.com/Miraigent/Miraigent-agent-memories-mcp-catalog/main/examples/creator-style-one-correction.txt)。空欄を埋める前に試せる架空の完成例です。閲覧とコピーにGitHubアカウントは不要です。
 
 1. 開いたテキストを全文コピーします。
 2. 「今回のテーマ」を公開してよい仮のテーマへ変え、使っているAIへ貼ります。
@@ -12,12 +14,14 @@ Agent Memoriesの無料文体メモと、今後のMCP候補を公開するカタ
 
 確認した結果は「満たした／要修正／未確認」のいずれでも構いません。これは手動で指示を渡すお試しで、自動保存・永続記憶の機能ではありません。実際の個人情報・顧客情報・秘密値・非公開の会話や設定は入力しないでください。
 
+このページはAgent Memoriesの無料文体メモと、今後のMCP候補を公開するカタログです。MCP本体の実装リポジトリではありません。
+
+<details>
+<summary>試した後の修正・保存・貼り直しと、詳しい資料</summary>
+
 「要修正」だったときは、[冒頭1文だけの修正を頼むコピー欄](./ONE_CORRECTION_TRIAL.md#retry-one-correction)を使えます。最初の結果と、追加依頼後の確認は分けて残します。
 
 依頼文だけをコピーしたいときは、[4行のテキスト版を開く](https://raw.githubusercontent.com/Miraigent/Miraigent-agent-memories-mcp-catalog/main/examples/retry-one-correction.txt)。使った後は出力を読み、冒頭に繰り返す作業が書かれたか、ほかの文が変わっていないかを確認します。
-
-<details>
-<summary>試した後の保存・貼り直しと、詳しい資料</summary>
 
 - 直したい1点を言葉にしたいときは、[修正の言い換え3例](./ONE_CORRECTION_TRIAL.md#one-line-corrections)から1つ選べます。
 - 会話を閉じる前は、[保存用の依頼文を開く](https://raw.githubusercontent.com/Miraigent/Miraigent-agent-memories-mcp-catalog/main/examples/save-one-correction.txt)→[手順に沿って確認し、自分で保存する](./ONE_CORRECTION_TRIAL.md#save-one-correction)。
