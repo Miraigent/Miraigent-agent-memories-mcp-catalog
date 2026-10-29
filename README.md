@@ -48,7 +48,7 @@ AIの下書きに「もっと落ち着いた口調で」と毎回頼んでいま
 - 説明用の入力・文章・修正メモ（改善実測ではありません）: [Creator Style Before / After Sample](./CREATOR_STYLE_MEMORY_BEFORE_AFTER_SAMPLE.md)
 - note向け無料試用記事: [Creator Style Memory Note Free Trial Article](./CREATOR_STYLE_MEMORY_NOTE_FREE_TRIAL_ARTICLE.md)
 - 使いどころ: X投稿、note導入文、ブログ構成、商品紹介文、AIキャラクター口調メモ
-- 次の小さな行動: テンプレを1枚埋めて、次のAI下書きの前に貼る
+- 次の小さな行動: 上の完成例を普段のAIへ貼り、下書き1本の冒頭を確認する
 - 欲しい拡張を送る: https://github.com/Miraigent/Miraigent-agent-memories-mcp-catalog/issues/new?template=use_case.md
 
 ### このカタログについて
@@ -241,6 +241,8 @@ Issueを送る:
 ## 法人で検討する方へ
 
 この無料資料で確認できるのは、公開してよい仮例を使った手動の文体指示と、下書き1本の試用手順です。社内データの保護、権限管理、業務システム連携、導入後の効果を実証する資料ではありません。
+
+最初の試用では配布テキストの仮テーマを変えずに使えます。実業務への適用判断とは分けてください。
 
 再現を検討するときは、公開してよい仮のテーマ・選んだ修正指示・下書きの確認結果を組にして記録してください。確認結果は「満たした／要修正／未確認」で残せます。これは手順を確認するための記録で、導入効果やセキュリティ審査の証明ではありません。
 
